@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/c1-sky-api/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/c1-sky-api/static/js/main.83c1947e.chunk.js",
+    "main.js.map": "/c1-sky-api/static/js/main.83c1947e.chunk.js.map",
+    "runtime-main.js": "/c1-sky-api/static/js/runtime-main.6bdc511b.js",
+    "runtime-main.js.map": "/c1-sky-api/static/js/runtime-main.6bdc511b.js.map",
+    "static/js/2.e09ac365.chunk.js": "/c1-sky-api/static/js/2.e09ac365.chunk.js",
+    "static/js/2.e09ac365.chunk.js.map": "/c1-sky-api/static/js/2.e09ac365.chunk.js.map",
+    "static/js/3.a119be5f.chunk.js": "/c1-sky-api/static/js/3.a119be5f.chunk.js",
+    "static/js/3.a119be5f.chunk.js.map": "/c1-sky-api/static/js/3.a119be5f.chunk.js.map",
+    "index.html": "/c1-sky-api/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/c1-sky-api/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e09ac365.chunk.js.LICENSE.txt": "/c1-sky-api/static/js/2.e09ac365.chunk.js.LICENSE.txt",
+    "static/media/bloo.41d6216e.png": "/c1-sky-api/static/media/bloo.41d6216e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bdc511b.js",
+    "static/js/2.e09ac365.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.83c1947e.chunk.js"
+  ]
+}
